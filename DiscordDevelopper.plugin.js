@@ -2,7 +2,8 @@
  * @name Discord Developper
  * @author Deemitry88
  * @description Enable Developper Options
- * @version 0.0.2
+ * @source https://github.com/Deemitry88/DiscordDevelopper
+ * @version 0.0.3
 */
 
 module.exports = meta => {
